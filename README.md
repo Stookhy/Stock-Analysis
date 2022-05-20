@@ -24,7 +24,7 @@
 
 
 
-<img width="468" alt="image" src="
+<img width="468" alt="image" src="VBA_Challenge_2017.png"
 
 ## Analysis of Execution Times of the Original Script and the Refactored Script.
 
