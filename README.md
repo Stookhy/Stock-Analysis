@@ -29,6 +29,8 @@
 ## Analysis of Execution Times of the Original Script and the Refactored Script.
 
   Based on the alignment of the code, the refactored script contributed to a run time decrease in comparison to the original script.
+                                  
+  ![This is an image](https://github.com/Stookhy/Stock-Analysis/blob/main/VBA_Challenge_2018_Elapsed_Run_Time_Refactored.png?raw=true')                                
   
   <img width="468" alt="image" src="https://github.com/Stookhy/Stock-Analysis/blob/main/VBA_Challenge_2018_Elapsed_Run_Time_Refactored.png?raw=true'>
 
