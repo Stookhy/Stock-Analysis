@@ -24,13 +24,13 @@
 
 
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/104689119/168200462-07759457-d85f-4755-a4db-712e6a45a54c.png">
+<img width="468" alt="image" src="
 
 ## Analysis of Execution Times of the Original Script and the Refactored Script.
 
   Based on the alignment of the code, the refactored script contributed to a run time decrease in comparison to the original script.
   
-  <img width="468" alt="image" src="https://user-images.githubusercontent.com/104689119/168200502-6fba198f-485e-48e7-a7dd-2a2cda5f1e03.png">
+  <img width="468" alt="image" src="
 
 
 ## Summary
