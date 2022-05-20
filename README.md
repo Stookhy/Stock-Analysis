@@ -22,9 +22,9 @@
 
   By comparing 2017 vs. 2018 stocks performance, it is evident that the ENPH and RUN tickers would have been considered good investments. This is because of their positive and significantly high returns in 2018. In addition, both tickers had increases greater than $200,000,000 over the 2017 total daily volumes.
 
+![This is an image](https://github.com/Stookhy/Stock-Analysis/blob/main/VBA_Challenge_2017.png?raw=true')
+![This is an image](https://github.com/Stookhy/Stock-Analysis/blob/main/VBA_Challenge_2018.png?raw=true')
 
-
-<img width="468" alt="image" src="
 
 ## Analysis of Execution Times of the Original Script and the Refactored Script.
 
@@ -35,7 +35,7 @@
     
                                   
   ![This is an image](https://github.com/Stookhy/Stock-Analysis/blob/main/VBA_Challenge_2017_Elapsed_Run_Time_Refactored.png?raw=true')
-  !This is an image](https://github.com/Stookhy/Stock-Analysis/blob/main/VBA_Challenge_2018_Elapsed_Run_Time_Refactored.png?raw=true')
+  ![This is an image](https://github.com/Stookhy/Stock-Analysis/blob/main/VBA_Challenge_2018_Elapsed_Run_Time_Refactored.png?raw=true')
  
 
 ## Summary
