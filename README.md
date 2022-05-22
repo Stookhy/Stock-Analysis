@@ -6,8 +6,7 @@
 1. Create VBA macro. 
 2. Macros will generate pop-ups, and formats cell values. 
 3. Loops and conditions to direct logical flow 
-4. Create pivot table and line chart for theatre outcomes. 
-5. Run macros to ensure syntax recollection and pattern recognition. 
+4. Run macros to ensure syntax recollection and pattern recognition. 
 
 
 ## Purpose
